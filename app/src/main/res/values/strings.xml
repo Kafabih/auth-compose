@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample Login</string>
+
+    <string name="com_auth0_client_id">9vpnuCTFZitS4pNltlya0iTqrwcQQ2js</string>
+    <string name="com_auth0_domain">dev-nv2avlcdioxnnsm5.us.auth0.com</string>
+    <string name="com_auth0_scheme">demo</string>
+</resources>
